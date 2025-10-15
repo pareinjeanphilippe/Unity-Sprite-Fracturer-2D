@@ -15,14 +15,6 @@ Split any sprite into physics-driven pieces with explosion force, blink effect, 
 
 ---
 
-## 🎮 Preview
-
-![SpriteFracture Demo](Docs/fracture_demo.gif)
-
-*A sprite fractured into multiple physics pieces with blinking destruction.*
-
----
-
 ## 📦 Installation
 
 1. Copy the folder `Assets/SpriteFracturer2D/` into your Unity project.  
