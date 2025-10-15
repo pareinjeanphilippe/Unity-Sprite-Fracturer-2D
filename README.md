@@ -1,3 +1,5 @@
+![Preview](Docs/fracture_demo.gif)
+
 <h1 align="center">💥 Sprite Fracturer 2D for Unity</h1>
 
 <p align="center">
