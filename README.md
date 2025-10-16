@@ -1,3 +1,5 @@
+![Preview](Docs/fracture_demo.gif)
+
 <h1 align="center">💥 Sprite Fracturer 2D for Unity</h1>
 
 <p align="center">
@@ -10,14 +12,6 @@ Split any sprite into physics-driven pieces with explosion force, blink effect, 
   <img src="https://img.shields.io/badge/License-MIT-green" />
   <img src="https://img.shields.io/badge/RenderPipeline-Built--in%2FURP%2FHDRP-blue" />
 </p>
-
----
-
-## 🎮 Preview
-
-![SpriteFracture Demo](Docs/fracture_demo.gif)
-
-*A sprite fractured into multiple physics pieces with blinking destruction.*
 
 ---
 
